@@ -1,0 +1,7 @@
+Detected music 20/100% lyrics.
+The accuracy: 10/100% lyrics.
+
+Accuracy up to 70% if music time rates below 10s.
+Because it's create a lots of files if we detect 2s once.
+Then, i'll try other code or other soft to dectect it soon.
+
