@@ -1,0 +1,6 @@
+Detected audio like news 80/100% lyrics.
+The accuracy: 80/100% lyrics.
+
+Accuracy up to 90% if music time rates below 10s.
+That're great than what i think so if i have something better i'll update it soon.
+

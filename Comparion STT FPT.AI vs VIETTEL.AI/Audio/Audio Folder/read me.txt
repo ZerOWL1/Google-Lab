@@ -1,0 +1,35 @@
+//Replace note under to real code
+Link code: https://colab.research.google.com/drive/1x0LPgyYCNrfppcTkV3cuH2HLRdNFGrXG?usp=sharing
+
+# Link audio:
+https://media1.vocaroo.com/mp3/1o453JLtmsSa
+
+# Ranges:
+
+ranges = [(0,50000),(60000,93000),(99780,107000),(118000,133800),(134000,163000),(163500,173500),(174000,218700),(219000,230000)] 
+
+# Reduce noise part:
+
+- audio0.mp3:
+noisy_part = audio[0:10000]
+
+- audio1.mp3:
+noisy_part = audio[0:700]
+
+- audio2.mp3:
+noisy_part = audio[0:700]
+
+- audio3.mp3:
+noisy_part = audio[0:1000]
+
+- audio4.mp3:
+noisy_part = audio[0:5000]
+
+- audio5.mp3:
+noisy_part = audio[0:3500]
+
+- audio6.mp3:
+noisy_part = audio[0:3000]
+
+- audio7.mp3:
+noisy_part = audio[0:3000]
